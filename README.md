@@ -1,1 +1,1 @@
-https://github.com/hanzi4389604/Data_aug_with_GAN/blob/master/Results/final_zebra_horse.png
+![Alt text](https://github.com/hanzi4389604/Data_aug_with_GAN/blob/master/Results/final_zebra_horse.png)
