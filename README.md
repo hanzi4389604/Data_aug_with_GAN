@@ -46,4 +46,4 @@ Synthesized images with 50 epoches training:
 
 # I tried Cycle-GAN, but it might be not appropriate for the weather data. 
 
-![Alt text]()
+![Alt text](https://github.com/hanzi4389604/Data_aug_with_GAN/blob/master/final_zebra_horse.png)
